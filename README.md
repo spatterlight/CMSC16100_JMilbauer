@@ -1,2 +1,2 @@
-# CMSC16100_JMilbauer
-Jeremiah Milbauer's Repository for CMSC 16100 at UChicago
+# First Repository
+This is my first repository, trying some stuff out.
